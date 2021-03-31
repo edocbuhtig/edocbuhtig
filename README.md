@@ -3,7 +3,7 @@
 
 🔭 I code software applications that work on mobile and web, my passion is to learn, write and share knowledge about software technology to beginners and startups.
 
-💬 Ask me about **Ionic, Flutter, React Native, Angular, React, Vue, Python, Flask, Node, Electron, Capacitor, Firebase, MongoDB, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32**
+💬 Ask me about **Ionic, Flutter, React Native, Angular, React, Vue, Python, Flask, Node, Electron, Capacitor, WordPress, Firebase, MongoDB, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32**
 
 <h3 align="left">Connect with me:</h3>
 
