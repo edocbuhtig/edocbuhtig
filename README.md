@@ -5,7 +5,11 @@
 
 💬 Ask me about **Ionic, Flutter, React Native, Angular, React, Vue, Python, Redis, Flask, Node, Electron, Capacitor, WordPress, Firebase, MongoDB, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Donate & Support</h3>
+<p>If you find the source code repository of any help in your work, please take some time and donate some food to homeless people around your home or workplace.</p>
+
+
+<h3 align="left">Follow me</h3>
 
 <a href="https://tinyurl.com/fha968df" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="hybrid2native" height="30" width="40" /></a>
 <a href="https://tinyurl.com/7zbwajxf" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hybrid2native" height="30" width="40" /></a>
