@@ -8,10 +8,6 @@
 <h3 align="left">Donate & Support</h3>
 <p>If you find the source code repository of any help in your work, please take some time and donate some food to homeless people around your home or workplace.</p>
 
-<h3>Contact Me</h3>
-<a href="mailto:hybrid2native.com@gmail.com">Email hybrid2native</a>
-
-
 <h3 align="left">Follow me</h3>
 
 <a href="https://tinyurl.com/fha968df" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="hybrid2native" height="30" width="40" /></a>
