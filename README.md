@@ -6,7 +6,7 @@
 💬 Ask me about **Ionic, Flutter, React Native, Angular, React, Vue, Python, Redis, Flask, Node, Electron, Capacitor, WordPress, Firebase, MongoDB, Docker, GitHub, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32.** 
 
 <h3 align="left">Donate & Support</h3>
-<p>If you find the source code repository of any help in your work, please take some time and donate some food to homeless people around your home or workplace.</p>
+<p>If you find the source code repository of any help in your work, please take some time and donate food to homeless people around your home or workplace.</p>
 
 <h3 align="left">Follow me</h3>
 
