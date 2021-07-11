@@ -3,7 +3,7 @@
 
 🔭 I code software applications that work on mobile and web, my passion is to learn, write and share knowledge about software technology to beginners and startups.
 
-💬 Ask me about **Ionic, Flutter, React Native, Angular, React, Vue, SAPUI5, OpenUI5, Tableau, Python, Redis, Flask, Node, PM2, Electron, Capacitor, WordPress, Firebase, MongoDB, Postgres, Docker, GitHub, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32.** 
+💬 Ask me about **Ionic, Flutter, React Native, Angular, React, Vue, Tailwindcss, SAPUI5, OpenUI5, Tableau, Python, Redis, Flask, Node, PM2, Electron, Capacitor, WordPress, Firebase, MongoDB, Postgres, Docker, GitHub, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32.** 
 
 <h3 align="left">Donate & Support</h3>
 <p>If you find the source code repository of any help in your work, please take some time and donate food to homeless people around your home or workplace.</p>
