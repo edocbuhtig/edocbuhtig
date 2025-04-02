@@ -2,7 +2,7 @@
 Website: (Coming soon)
 
 
-[ Watch Technology Video Tutorials on YouTube](https://www.youtube.com/@Full_Stack_Dev_Bharat)
+[ Watch Technology Video Tutorials on YouTube](https://www.youtube.com/@iamhumanwhocodes)
 
 
 
