@@ -1,27 +1,24 @@
-<h1 align="center">Hi, I'm Sunil Kumar, 
- 
- I’m a Seasoned  full stack, technology specialist.
+<h1 align="center">Hi, I'm Sunil Kumar </h1>
 
- 
- Experienced in software ideation, planning, design, development and deployment.</h1>
 Website: (Coming soon)
 
 
-[ Watch Technology Video Tutorials on YouTube](https://www.youtube.com/@iamhumanwhocodes)
+[ Checkout My Developer 2 Developer (Dumb) Video Tutorials on YouTube](https://www.youtube.com/@iamhumanwhocodes)
 
 
+I’m a Seasoned full stack, technology specialist. Experienced in software ideation, planning, design, development and deployment.
 
 
+-  I code software applications, Ai & non (Ai), that work on mobile and web, my passion is to learn, write and share knowledge about, Ai, Latest , software technologies to beginners, Startups, Small and medium-sized enterprises in India & Across the Globe.
+Remotely (Local to Global)
 
-🔭 I code software applications that work on mobile and web, my passion is to learn, write and share knowledge about software technology to beginners a startups & Small and medium-sized enterprises.
-
-💬 Ask me about **Ionic, Flutter, React Native, SwiftUI, Kotlin, Angular, React, Vue, Tailwindcss, SAPUI5, OpenUI5, Tableau, Python, Redis, Flask, Node, PM2, Electron, Capacitor, WordPress, Firebase, MongoDB, Postgres, Docker, GitHub, GCP, AWS, Azure, Arduino, Raspberry Pi, ESP32.** 
 
 <h3 align="left">Donate & Support</h3>
+
 <p>If you find the source code repository of any help in your work, please take some time and donate food to homeless people around your home or workplace.</p>
 
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edocbuhtig&show_icons=true&theme=dark&locale=en" alt="edocbuhtig" /></p>
+
  
