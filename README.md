@@ -3,10 +3,10 @@
 Website: (Coming soon)
 
 
-[ Checkout My Developer 2 Developer (Dumb) Video Tutorials on YouTube](https://www.youtube.com/@iamhumanwhocodes)
+[ Developer 2 Developer (Dumb) Video Tutorials on YouTube](https://www.youtube.com/@iamhumanwhocodes)
 
 
-I’m a Seasoned full stack, technology specialist. Experienced in software ideation, planning, design, development and deployment.
+
 
 
 -  I code software applications, Ai & non (Ai), that work on mobile and web, my passion is to learn, write and share knowledge about, Ai, Latest , software technologies to beginners, Startups, Small and medium-sized enterprises in India & Across the Globe.
