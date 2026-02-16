@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sunil Kumar, UX, UI, open-source software technology enthusiast.</h1>
+<h1 align="center">Hi, I'm Sunil Kumar, I’m a Seasoned  full stack, technology specialist experienced in software ideation, planning, design, development and deployment.</h1>
 Website: (Coming soon)
 
 
