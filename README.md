@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Sunil Kumar, I’m a Seasoned  full stack, technology specialist experienced in software ideation, planning, design, development and deployment.</h1>
+<h1 align="center">Hi, I'm Sunil Kumar, 
+ 
+ I’m a Seasoned  full stack, technology specialist.
+
+ 
+ Experienced in software ideation, planning, design, development and deployment.</h1>
 Website: (Coming soon)
 
 
@@ -6,7 +11,7 @@ Website: (Coming soon)
 
 
 
-<h3 align="center">UI | SwiftUI | Kotlin | Ionic | React Native | MEAN, PERN, MERN Stack WordPress | IoT developer based in Mumbai helping startups grow in India and across globe.</h3>
+
 
 🔭 I code software applications that work on mobile and web, my passion is to learn, write and share knowledge about software technology to beginners a startups & Small and medium-sized enterprises.
 
