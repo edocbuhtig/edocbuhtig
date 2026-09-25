@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sunil Kumar </h1>
 
-Website: https://iamhumanwhocodes.medium.com/
 
 
-[ Developer 2 Developer (Dumb) Video Tutorials on YouTube](https://www.youtube.com/@iamhumanwhocodes)
+
+[ Developer 2 Developer (Dumb) Video Tutorials on YouTube](https://www.youtube.com/@fullstackguyindia)
 
 
 
